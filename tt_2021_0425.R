@@ -1,6 +1,5 @@
 # load libraries
 library(tidyverse)
-library(tidytuesdayR)
 library(dplyr)
 library(png)
 library(grid)
